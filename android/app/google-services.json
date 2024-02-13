@@ -1,0 +1,91 @@
+{
+  "project_info": {
+    "project_number": "124223291911",
+    "firebase_url": "https://project-x-443322-default-rtdb.asia-southeast1.firebasedatabase.app",
+    "project_id": "project-x-443322",
+    "storage_bucket": "project-x-443322.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:124223291911:android:af64841f5f9372122d20a2",
+        "android_client_info": {
+          "package_name": "com.example.auto_vault_user"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "124223291911-scllffa8nifvflmk030hhajc2df8k245.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.auto_vault_user",
+            "certificate_hash": "b43432fce0bb9154095cd85f52f6a0a83e0be3b9"
+          }
+        },
+        {
+          "client_id": "124223291911-q3ufv95ob1ttgo7jrco5ufpth5492ksl.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCCNJ45kzuTmAqEYP0IqHkPuiS_tgirzO4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "124223291911-q3ufv95ob1ttgo7jrco5ufpth5492ksl.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "124223291911-lljr1bke9841nr3a3uqnvulvsr5pb9g6.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.projectXAdminApp"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:124223291911:android:89f68ff1880e1bc12d20a2",
+        "android_client_info": {
+          "package_name": "com.example.project_x_admin_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "124223291911-q3ufv95ob1ttgo7jrco5ufpth5492ksl.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCCNJ45kzuTmAqEYP0IqHkPuiS_tgirzO4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "124223291911-q3ufv95ob1ttgo7jrco5ufpth5492ksl.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "124223291911-lljr1bke9841nr3a3uqnvulvsr5pb9g6.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.projectXAdminApp"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
